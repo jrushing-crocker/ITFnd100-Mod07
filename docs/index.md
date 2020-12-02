@@ -45,7 +45,14 @@ with open(strFileItems, "rb") as f:
     lstHomeInv = pickle.load(f)
 print(lstHomeInv)
 ```
+Figure 1
 
+
+
+
+![Fig.3-Pickling Results in OSCommand Window](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07_OSCmd.png "Fig.3-Pickling Results in OSCommand Window")
+
+Figure 3-Pickling Results in OSCommand Window
 
 ## Error/Exception Handling
 What is Exception? An exception is an event, which occurs during the execution of a program that disrupts the normal flow of the program's instructions. In general, when a Python script encounters a situation that it cannot cope with, it raises an exception. An exception is a Python object that represents an error. When a Python script raises an exception, it must either handle the exception immediately otherwise it terminates and quits.
