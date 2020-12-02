@@ -86,7 +86,7 @@ Figure 4
 
 Figure 5-Exception Handling Results in PyCharm 
 
-![Fig.6-Exception Handling Results in OSCommand Window](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07_OSCmd.png "Fig.6-Exception Handling Results in OSCommand Window")
+![Fig.6-Exception Handling Results in OSCommand Window](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07b_OSCmd.png "Fig.6-Exception Handling Results in OSCommand Window")
 
 Figure 6-Exception Handling Results in OSCommand Window
 
