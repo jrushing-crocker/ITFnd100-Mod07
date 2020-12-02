@@ -82,7 +82,7 @@ else:
 ```
 Figure 4
 
-![Fig.5-Exception Handling Results in PyCharm](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07_PyCharm.png "Fig.5-Exception Handling Results in PyCharm")
+![Fig.5-Exception Handling Results in PyCharm](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07b_PyCharm.png "Fig.5-Exception Handling Results in PyCharm")
 
 Figure 5-Exception Handling Results in PyCharm 
 
