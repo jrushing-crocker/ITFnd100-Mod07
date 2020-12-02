@@ -47,8 +47,9 @@ print(lstHomeInv)
 ```
 Figure 1
 
+![Fig.2-Pickling Results in PyCharm](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07_PyCharm.png "Fig.2-Pickling Results in PyCharm")
 
-
+Figure 2-Pickling Results in PyCharm 
 
 ![Fig.3-Pickling Results in OSCommand Window](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07_OSCmd.png "Fig.3-Pickling Results in OSCommand Window")
 
@@ -79,6 +80,15 @@ except ZeroDivisionError:
 else:
     print("The Answer is:",result)
 ```
+Figure 4
+
+![Fig.5-Exception Handling Results in PyCharm](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07_PyCharm.png "Fig.5-Exception Handling Results in PyCharm")
+
+Figure 5-Exception Handling Results in PyCharm 
+
+![Fig.6-Exception Handling Results in OSCommand Window](https://github.com/jrushing-crocker/ITFnd100-Mod07/blob/main/Assignment07_OSCmd.png "Fig.6-Exception Handling Results in OSCommand Window")
+
+Figure 6-Exception Handling Results in OSCommand Window
 
 ## Conclusion
 I have use previous code to show the use of Pickling and Exception Handling and run ethe code in both PyCharm and OS Command Window. I have also researched and provided information on the uses for both Pickling and Exception Handling.  
